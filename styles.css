@@ -60,6 +60,7 @@ i{
 }
 
 span{
+    display: block;
     color: #61b752;
     margin-top: 10px;
 }
